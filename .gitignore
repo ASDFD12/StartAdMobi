@@ -1,0 +1,15 @@
+.DS_Store
+/Temp
+/obj
+/library
+/Library
+/Builds
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.userprefs
+*.user
+Assets/GAF/Cache/*
+Assets/VSCode
+Assets/VSCode.meta
